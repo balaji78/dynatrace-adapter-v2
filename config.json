@@ -1,0 +1,7 @@
+{
+    "schedule": {
+        "fetchinterval": "5m",
+        "resolution": "1m",
+        "lastrun": "2024-08-26 19:20:00"
+    }
+}

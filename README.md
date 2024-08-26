@@ -1,2 +1,3 @@
 # dynatrace-adapter-v2
-Pull the metrics out of dynatrace data APIs and forwards to Influxdb
+
+This helps in getting Dynatrace API data and ingest the metrics to Influx DB v2.x
